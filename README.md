@@ -1,7 +1,6 @@
 # simpson_character_viewer
 
-A new Flutter project.
-
+Interview exercise for RandStad USA
 ## Getting Started
 
 This project is a starting point for a Flutter application.
