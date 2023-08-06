@@ -15,7 +15,7 @@ class CharacterProvider {
     List<CharacterModel> listCharacter = [];
 
     Uri uri =
-        Uri.parse(ServerConstants.mainURI + ServerConstants.simpsonEndPoint);
+        Uri.parse(ServerConstants.mainURI + ServerConstants.theWireEndPoint);
 
     dio.Response response = await httpClient.get(uri.toString());
     if (response.statusCode == 200) {

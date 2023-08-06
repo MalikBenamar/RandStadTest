@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.sample.simpsonsviewer">
+    package="com.sample.wireviewer">
    <application
         android:label="simpson_character_viewer"
         android:name="${applicationName}"
