@@ -1,1 +1,1 @@
-String appTitle = "Simpson Data Viewer";
+String appTitle = "The Wire Data Viewer";
